@@ -1,0 +1,151 @@
+.frame {
+  align-items: center;
+  background-color: #ffffff;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 24px;
+  padding: 16px;
+  position: relative;
+  font-weight: bold;
+}
+
+.frame .div {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 24px;
+  position: relative;
+}
+
+.frame .div-2 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 56px;
+  position: relative;
+}
+
+.frame .div-3 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  position: relative;
+  width: 132px;
+}
+
+.frame .slot-text-instance {
+  display: inline-flex !important;
+  flex: 0 0 auto !important;
+  width: unset !important;
+  font-weight: bold;
+}
+
+.frame .design-component-instance-node {
+  align-self: unset !important;
+  color: #848484 !important;
+  font-family: var(--en-desktop-body-XXS-font-family) !important;
+  font-size: var(--en-desktop-body-XXS-font-size) !important;
+  font-style: var(--en-desktop-body-XXS-font-style) !important;
+  font-weight: var(--en-desktop-body-XXS-font-weight) !important;
+  letter-spacing: var(--en-desktop-body-XXS-letter-spacing) !important;
+  line-height: var(--en-desktop-body-XXS-line-height) !important;
+  white-space: nowrap !important;
+  width: fit-content !important;
+}
+
+.frame .slot-text-2 {
+  align-self: unset !important;
+  color: #383838 !important;
+  font-family: var(--en-desktop-body-XS-font-family) !important;
+  font-size: var(--en-desktop-body-XS-font-size) !important;
+  font-style: var(--en-desktop-body-XS-font-style) !important;
+  font-weight: var(--en-desktop-body-XS-font-weight) !important;
+  letter-spacing: var(--en-desktop-body-XS-letter-spacing) !important;
+  line-height: var(--en-desktop-body-XS-line-height) !important;
+  white-space: nowrap !important;
+  width: fit-content !important;
+}
+
+.frame .slot-text-3 {
+  display: inline-flex !important;
+  flex: 0 0 auto !important;
+  margin-right: -11px !important;
+  width: unset !important;
+}
+
+.frame .frame-wrapper {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 56px;
+  position: relative;
+  width: 132px;
+}
+
+.frame .div-4 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 8px;
+  position: relative;
+}
+
+.frame .download {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #063380;
+  border-radius: 6px;
+  height: 32px;
+  position: relative;
+  width: 328px;
+}
+
+.frame .slot-text-4 {
+  display: inline-flex !important;
+  left: 115px !important;
+  top: 6px !important;
+  width: unset !important;
+}
+
+.frame .slot-text-5 {
+  align-self: unset !important;
+  color: #063380 !important;
+  font-family: var(--en-desktop-body-XS-font-family) !important;
+  font-size: var(--en-desktop-body-XS-font-size) !important;
+  font-style: var(--en-desktop-body-XS-font-style) !important;
+  font-weight: var(--en-desktop-body-XS-font-weight) !important;
+  letter-spacing: var(--en-desktop-body-XS-letter-spacing) !important;
+  line-height: var(--en-desktop-body-XS-line-height) !important;
+  white-space: nowrap !important;
+  width: fit-content !important;
+}
+
+.frame .ETA {
+  align-items: center;
+  background-color: #fff1e6;
+  border-radius: 4px;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  justify-content: center;
+  padding: 1px;
+  position: relative;
+  width: 328px;
+}
+/* .frame-tod {
+  align-items: flex-start;
+  background-color: #ffffff;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 24px;
+  padding: 16px;
+  position: relative;
+} */
+.frame .timeofdel {
+  background-color: rgb(255, 134, 47);
+  padding: 3px;
+  border-radius: 4px;
+}
